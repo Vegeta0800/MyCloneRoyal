@@ -1,0 +1,10 @@
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\bin\Release\MyCloneRoyale.exe.config
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\bin\Release\MyCloneRoyale.exe
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\bin\Release\MyCloneRoyale.pdb
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\obj\Release\MyCloneRoyale.ApplicationWindow.resources
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\obj\Release\MyCloneRoyale.Canvas.resources
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\obj\Release\MyCloneRoyale.Properties.Resources.resources
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\obj\Release\MyCloneRoyale.csproj.GenerateResource.cache
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\obj\Release\MyCloneRoyale.csproj.CoreCompileInputs.cache
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\obj\Release\MyCloneRoyale.exe
+C:\Users\Raffi.Kaul\Desktop\PR340_ABGABE_KAUL_RAFAEL_PRO2017\MyCloneRoyale\MyCloneRoyale\obj\Release\MyCloneRoyale.pdb
